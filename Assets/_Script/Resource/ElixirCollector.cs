@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class LifeCycle : MonoBehaviour {
+public class ElixirCollector : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

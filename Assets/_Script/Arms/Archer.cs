@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class Barbarian : BaseArms {
-    
+public class Archer : BaseArms {
+     
 	 
 }
